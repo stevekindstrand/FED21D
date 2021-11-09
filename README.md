@@ -17,3 +17,4 @@
 - [Jessica](https://github.com/jsilf)
 - [Joel](https://github.com/Joelhagg)
 - [Cornelia](https://github.com/CorneliaLH)
+- [Therese] (https://github.com/thereseml)
