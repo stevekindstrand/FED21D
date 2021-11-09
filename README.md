@@ -18,3 +18,4 @@
 - [Joel](https://github.com/Joelhagg)
 - [Cornelia](https://github.com/CorneliaLH)
 - [Therese] (https://github.com/thereseml)
+- [Oskar](https://github.com/ZyrhonDev)
