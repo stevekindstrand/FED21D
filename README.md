@@ -20,3 +20,4 @@
 - [Therese] (https://github.com/thereseml)
 - [Oskar](https://github.com/ZyrhonDev)
 - [SaraEkman](https://github.com/SaraEkman)
+- [FridaPlanting] (https://github.com/fplanting)
