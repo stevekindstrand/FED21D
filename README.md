@@ -21,3 +21,5 @@
 - [Oskar](https://github.com/ZyrhonDev)
 - [SaraEkman](https://github.com/SaraEkman)
 - [FridaPlanting] (https://github.com/fplanting)
+- [stevekindstrand] (https://github.com/stevekindstrand)
+
